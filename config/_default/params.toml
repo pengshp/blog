@@ -1,0 +1,30 @@
+[TagsCloud]
+  Enable = true
+  Limit = 20
+
+[Share]
+  Enable = false
+  AddthisId = "Your AddthisId"
+
+[Comment]
+  Enable = true
+  Module = "Waline"
+  WalineSerURL = "https://github-blog-comment-89s9htkyl-pengshp.vercel.app/"
+
+[LeanCloud]
+  AppId = "Your LCAppId"
+  AppKey = "Your LCAppKey"
+  ServerURL = "Your LCServer"
+
+[Statis]
+  BusuanziCounter = true
+#  CNNZSiteId = "Your CNNZSiteId"
+#  BaiduSiteId = "Your BaiduSiteId"
+#  GoogleSiteId = "Your GoogleSiteId"
+
+[OnlineIM]
+  Enable = false
+#  DaoVoiceId = "Your DaoVoiceId"
+
+[Others]
+#  RevolverMapId = "Your RevolverMapId"
